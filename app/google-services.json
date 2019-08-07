@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012206693589",
+    "firebase_url": "https://harry-82dc8.firebaseio.com",
+    "project_id": "harry-82dc8",
+    "storage_bucket": "harry-82dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012206693589:android:b3659c96a0180b0b",
+        "android_client_info": {
+          "package_name": "com.example.readingharry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012206693589-i5mr6sr0eoa14frcoqsdtpt54cu4m8or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.readingharry",
+            "certificate_hash": "ced0e0520d977067d612c006b09363038185b2b8"
+          }
+        },
+        {
+          "client_id": "1012206693589-2pgopdurkenbe9frgc8tk9ks3dhj9q5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cpPEwtIP315Uv3yvjzKmIDMkP8TWxLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012206693589-2pgopdurkenbe9frgc8tk9ks3dhj9q5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
